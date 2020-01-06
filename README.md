@@ -14,7 +14,7 @@ it is not first in `$PATH`.
 
 ## Local Gem Installation
 
-When RVM is not detected, local gems are installed in `$HOME/.gems`; otherwise, they are installed according to the manager.
+When RVM is not detected, local gems are installed in `$HOME/.gems`; otherwise, they are by RVM.
 
 ## Authors
 
